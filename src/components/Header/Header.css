@@ -1,0 +1,87 @@
+.boby {
+  margin: 0px;
+  font-family: 'Inter', sans-serif;
+  align-items: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+header {
+  align-items: center;
+}
+
+.wrapper {
+  min-height: 100vh;
+  background-image: url('https://res.cloudinary.com/djkrastjv/image/upload/v1728985958/image_fewh3i.png');
+  background-size: cover;
+  background-position: center;
+  align-items: center;
+}
+
+.wrapper {
+  position: relative;
+}
+.cta {
+  position: absolute;
+}
+
+.heading {
+  color: #ffff;
+  font-family: 'Roboto';
+  font-weight: 300;
+}
+.span {
+  background-color: #5bc0de;
+  border-radius: 18px;
+  height: 10vh;
+  width: 100%;
+  color: black;
+  border-top: 1px solid #5bc0de;
+  padding-left: 14px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-right: 14px;
+}
+.p {
+  color: #b0faffb2;
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 300;
+}
+.btn {
+  width: 131px;
+  height: 48px;
+  border-radius: 12px;
+  border: var(--strokeweight1);
+  background-color: #0c2b2fb2;
+  border-top: 1px solid #0c2b2fb2;
+  color: white;
+  text-align: center;
+  font-size: 16px;
+  padding-left: 24px;
+  padding-right: 24px;
+  padding-bottom: 12px;
+  padding-top: 12px;
+  font-weight: 500;
+}
+.container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 250px;
+  margin-left: 520px;
+  margin-bottom: 35px;
+  margin-right: 45px;
+}
+
+.button {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 10px;
+  z-index: auto;
+  padding-right: 30px;
+}

@@ -1,0 +1,17 @@
+.cta {
+  position: absolute;
+}
+.footer {
+  width: 1, 440px;
+  height: 470px;
+  padding: 0px 66px 0px 66px;
+  gap: 0px;
+  opacity: 0px;
+  background: #010F14;
+
+}
+.ethaiimg{
+    color: #fff;
+    margin: 20px;
+    align-items: center;
+}
